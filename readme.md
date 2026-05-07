@@ -71,8 +71,6 @@ Each blog explains concepts clearly with examples.
 
 ---
 
-##  How to Run
-
 1. Install TypeScript globally:
 
 ```
